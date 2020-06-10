@@ -1,2 +1,2 @@
-# Resume
-Resume with the online shareable link
+# Resume and portfolio
+Resume and portfolio with the online shareable link
